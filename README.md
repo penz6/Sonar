@@ -1,2 +1,2 @@
 # Sonar
-Abandoned school project
+Calculate the distance between two objects
